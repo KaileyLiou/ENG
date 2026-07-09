@@ -1,3 +1,3 @@
-# ColumbiaENG
+# Columbia ENG
 
 Jupyter notebooks 
